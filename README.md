@@ -1,4 +1,4 @@
-![banner](https://github.com/CarolinaCasas/CarolinaCasas/blob/main/bannerFromGithub.png)
+![banner](https://github.com/CarolinaCasas/CarolinaCasas/blob/main/bannerFomGithub.png)
 
 ### Hi there 👋
 
