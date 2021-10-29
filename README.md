@@ -1,3 +1,5 @@
+![banner](https://github.com/CarolinaCasas/CarolinaCasas/blob/main/bannerFromGithub.png)
+
 ### Hi there 👋
 
 <!--
